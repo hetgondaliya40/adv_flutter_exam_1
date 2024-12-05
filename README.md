@@ -70,11 +70,13 @@ Follow these steps to set up the project on your local machine:
 
 ## 📝 Images
 
-<img src =" " width = "250">
-<img src =" " width = "250">
-<img src =" " width = "250">
-<img src =" " width = "250">
-<img src =" " width = "250">
+<img src ="https://github.com/user-attachments/assets/7ae46228-fd2a-4e48-a081-0de21ed72734" width = "250">
+<img src ="https://github.com/user-attachments/assets/2a5a7043-b53c-4edf-b0ed-8f48a732eaff" width = "250">
+<img src ="https://github.com/user-attachments/assets/d01e24e1-ecfa-48ba-b18a-085d4008b991" width = "250">
+<img src ="!https://github.com/user-attachments/assets/96ce706b-01aa-4eaf-9b10-9295ea8712aa" width = "250">
+<img src ="https://github.com/user-attachments/assets/7fe44736-49cb-4713-841e-b869c6da8d03" width = "250">
+<img src ="https://github.com/user-attachments/assets/4600e114-0205-479e-b1e4-0a74624cf1d0" width = "250">
+<img src ="https://github.com/user-attachments/assets/7b1346f9-f1ac-40a7-a658-3fadac9c2f3a" width = "250">
 
 
 ---
