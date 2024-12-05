@@ -78,6 +78,11 @@ Follow these steps to set up the project on your local machine:
 <img src ="https://github.com/user-attachments/assets/4600e114-0205-479e-b1e4-0a74624cf1d0" width = "250">
 <img src ="https://github.com/user-attachments/assets/7b1346f9-f1ac-40a7-a658-3fadac9c2f3a" width = "250">
 
+---
+
+## 📝 Video 
+
+https://github.com/user-attachments/assets/8e088770-cd1b-4781-b493-047e52fa48a3
 
 ---
 
@@ -117,5 +122,5 @@ If you have questions or suggestions, feel free to reach out:
 
 Your Name
 GitHub: @hetgondaliya40
-Email: your.hetgondaliya104@gmail.com
+Email: hetgondaliya104@gmail.com
 
